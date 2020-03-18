@@ -1,4 +1,4 @@
-class PartnerError
+class Person
 end 
 
 
